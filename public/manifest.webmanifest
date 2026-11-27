@@ -1,0 +1,21 @@
+{
+  "name": "SarkariResultOut – Jobs, PYQ, Mock Tests, Rank",
+  "short_name": "SRO",
+  "description": "Gujarat & all-India govt jobs, results, previous year papers, daily quiz and shift-wise rank.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#14161f",
+  "theme_color": "#c9480f",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ],
+  "shortcuts": [
+    { "name": "Daily Quiz", "url": "/daily-quiz/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Previous Papers", "url": "/pyq/", "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+"SRO-L84A924DAD0": {
+ "en": {"stem": "In a passive square-wave generator, how can a square wave be obtained easily?", "options": ["By amplifying a triangular waveform", "By using only a DC power supply", "By making the magnetic field rotate", "By converting the output of a sine-wave generator"], "quick": "D — By converting the output of a sine-wave generator. A passive square-wave generator shapes (clips/squares) a sine-wave output into a square wave."},
+ "hi": {"stem": "पैसिव स्क्वेयर-वेव जनरेटर में स्क्वेयर वेव आसानी से कैसे प्राप्त की जा सकती है?", "options": ["त्रिकोणीय तरंगरूप को प्रवर्धित करके", "केवल DC पावर सप्लाई का उपयोग करके", "चुंबकीय क्षेत्र को घुमाकर", "साइन-वेव जनरेटर के आउटपुट को रूपांतरित करके"], "quick": "D — साइन-वेव जनरेटर के आउटपुट को रूपांतरित करके। पैसिव स्क्वेयर-वेव जनरेटर साइन-वेव आउटपुट को क्लिप/शेप करके स्क्वेयर वेव बनाता है।"}
+},
+"SRO-L9EB6B5A966": {
+ "en": {"stem": "A Schottky diode has __________ recovery time and __________ forward-voltage drop.", "options": ["very fast, low", "very slow, low", "very slow, high", "very fast, high"], "quick": "A — Very fast, low. A Schottky diode is a majority-carrier (metal–semiconductor) device with almost no stored minority charge, so it switches very fast and has a low forward drop (about 0.2–0.4 V)."},
+ "hi": {"stem": "शॉटकी डायोड में __________ रिकवरी समय और __________ फॉरवर्ड-वोल्टेज ड्रॉप होता है।", "options": ["बहुत तेज़, कम", "बहुत धीमा, कम", "बहुत धीमा, अधिक", "बहुत तेज़, अधिक"], "quick": "A — बहुत तेज़, कम। शॉटकी डायोड बहुसंख्यक-वाहक (धातु–अर्धचालक) डिवाइस है जिसमें अल्पसंख्यक आवेश संग्रह लगभग नहीं होता, इसलिए यह बहुत तेज़ स्विच करता है और फॉरवर्ड ड्रॉप कम (लगभग 0.2–0.4 V) होता है।"}
+},
+"SRO-L27D74F2850": {
+ "en": {"stem": "If the direction of motion of a straight conductor moving in a uniform magnetic field is reversed, what change occurs in the direction of the induced current?", "options": ["The magnitude of current increases", "The direction of induced current reverses", "The current stays in the same direction", "It depends only on the magnetic field strength"], "quick": "B — The direction of induced current reverses. With the field direction unchanged, reversing the conductor's motion reverses the induced EMF and current (Fleming's right-hand rule)."},
+ "hi": {"stem": "एक समान चुंबकीय क्षेत्र में गतिशील सीधे चालक की गति की दिशा उलट दी जाए, तो प्रेरित धारा की दिशा में क्या परिवर्तन होता है?", "options": ["धारा का परिमाण बढ़ता है", "प्रेरित धारा की दिशा उलट जाती है", "धारा उसी दिशा में रहती है", "यह केवल चुंबकीय क्षेत्र की तीव्रता पर निर्भर करता है"], "quick": "B — प्रेरित धारा की दिशा उलट जाती है। चुंबकीय क्षेत्र की दिशा वही रखते हुए चालक की गति उलटने से प्रेरित EMF और धारा भी उलट जाती है (फ्लेमिंग का दाएँ हाथ का नियम)।"}
+},
+"SRO-L40DF68A8E0": {
+ "en": {"stem": "Faraday's second law states that the induced EMF depends on the rate of change of which quantity?", "options": ["Capacitance", "Resistance", "Temperature", "Magnetic flux"], "quick": "D — Magnetic flux. The induced EMF is proportional to the rate of change of magnetic flux linkage: e = −N dΦ/dt."},
+ "hi": {"stem": "फैराडे का दूसरा नियम बताता है कि प्रेरित EMF किस राशि के परिवर्तन की दर पर निर्भर करता है?", "options": ["धारिता (Capacitance)", "प्रतिरोध (Resistance)", "तापमान (Temperature)", "चुंबकीय फ्लक्स (Magnetic flux)"], "quick": "D — चुंबकीय फ्लक्स। प्रेरित EMF चुंबकीय फ्लक्स लिंकेज के परिवर्तन की दर के समानुपाती है: e = −N dΦ/dt।"}
+},
+"SRO-L489415F3DF": {
+ "en": {"stem": "Self-inductance is the property of a coil that opposes a change in _______.", "options": ["voltage", "temperature", "pressure", "the current flowing through the coil"], "quick": "D — The current flowing through the coil. When the coil current changes, its own flux linkage changes and a self-induced EMF (e = −L di/dt) opposes that change."},
+ "hi": {"stem": "स्वप्रेरकत्व (Self-inductance) कुंडली का वह गुण है जो _______ में परिवर्तन का विरोध करता है।", "options": ["वोल्टेज", "तापमान", "दबाव", "कुंडली से बहने वाली धारा"], "quick": "D — कुंडली से बहने वाली धारा। कुंडली की धारा बदलने पर उसका अपना फ्लक्स लिंकेज बदलता है और स्वप्रेरित EMF (e = −L di/dt) उस परिवर्तन का विरोध करता है।"}
+},
+"SRO-LB5B7A97FBF": {
+ "en": {"stem": "Faraday's first law is related to which of the following?", "options": ["Electromagnetic induction", "Capacitance", "Heating effect", "Mechanical motion"], "quick": "A — Electromagnetic induction. Faraday's first law states that an EMF is induced in a circuit whenever the magnetic flux linked with it changes."},
+ "hi": {"stem": "फैराडे का प्रथम नियम (Faraday’s first law) किससे संबंधित है?", "options": ["विद्युतचुंबकीय प्रेरण (Electromagnetic induction)", "धारिता (Capacitance)", "ऊष्मीय प्रभाव (Heating effect)", "यांत्रिक गति (Mechanical motion)"], "quick": "A — विद्युतचुंबकीय प्रेरण। फैराडे का प्रथम नियम कहता है कि जब भी किसी परिपथ से जुड़ा चुंबकीय फ्लक्स बदलता है, उसमें EMF प्रेरित होता है।"}
+},
+"SRO-LD413005DB9": {
+ "en": {"stem": "Which of the following laws is used to determine the direction of the induced EMF in a transformer winding?", "options": ["Joule's law", "Fleming's left-hand rule", "Ohm's law", "Lenz's law"], "quick": "D — Lenz's law. The direction of the induced EMF is such that its effect opposes the cause producing it."},
+ "hi": {"stem": "ट्रांसफार्मर वाइंडिंग में प्रेरित EMF की दिशा निर्धारित करने के लिए निम्नलिखित में से कौन-सा नियम उपयोग होता है?", "options": ["जूल का नियम", "फ्लेमिंग का बाएँ हाथ का नियम", "ओम का नियम", "लेंज़ का नियम"], "quick": "D — लेंज़ का नियम। प्रेरित EMF की दिशा ऐसी होती है कि उसका प्रभाव उसे उत्पन्न करने वाले कारण का विरोध करे।"}
+},
+"SRO-L6DE24F696F": {
+ "en": {"stem": "What is the region around an electric charge in which an electric force acts called?", "options": ["Electric field", "Magnetic field", "Sound field", "Heat field"], "quick": "A — Electric field. Every electric charge creates a region around it in which another charge experiences an electric force; this region is the electric field."},
+ "hi": {"stem": "विद्युत आवेश के चारों ओर का वह क्षेत्र, जहाँ विद्युत बल कार्य करता है, क्या कहलाता है?", "options": ["विद्युत क्षेत्र (Electric field)", "चुंबकीय क्षेत्र (Magnetic field)", "ध्वनि क्षेत्र (Sound field)", "ऊष्मा क्षेत्र (Heat field)"], "quick": "A — विद्युत क्षेत्र। प्रत्येक विद्युत आवेश अपने चारों ओर ऐसा क्षेत्र बनाता है जहाँ दूसरे आवेश पर विद्युत बल लगता है; यही विद्युत क्षेत्र है।"}
+},
+"SRO-LBB3F76BC66": {
+ "en": {"stem": "The capacitance of a parallel-plate capacitor depends on which of the following?", "options": ["Thickness of the plates", "Type of metal used for the plates", "Potential difference between the plates", "Separation between the plates"], "quick": "D — Separation between the plates. For a parallel-plate capacitor C = εA/d, so capacitance depends on plate area, dielectric and plate separation — not on plate thickness, metal or applied voltage."},
+ "hi": {"stem": "समानांतर-प्लेट संधारित्र की धारिता (Capacitance) निम्नलिखित में से किस पर निर्भर करती है?", "options": ["प्लेटों की मोटाई", "प्लेटों के लिए प्रयुक्त धातु का प्रकार", "प्लेटों के बीच विभवांतर (Potential difference)", "प्लेटों के बीच की दूरी (Separation between the plates)"], "quick": "D — प्लेटों के बीच की दूरी। समानांतर-प्लेट संधारित्र के लिए C = εA/d, इसलिए धारिता प्लेट क्षेत्रफल, परावैद्युत और दूरी पर निर्भर है — प्लेट मोटाई, धातु या वोल्टेज पर नहीं।"}
+},
+"SRO-L1D349A2287": {
+ "en": {"stem": "The right-hand thumb rule is used to show the relationship between the direction of electric current and what?", "options": ["Frictional force", "Heat produced", "Magnetic field", "Chemical reaction"], "quick": "C — Magnetic field. For a straight current-carrying conductor, if the thumb points along the current, the curled fingers give the direction of the magnetic field lines."},
+ "hi": {"stem": "दाएँ हाथ के अंगूठे का नियम (right-hand thumb rule) विद्युत धारा की दिशा और किसके बीच संबंध दर्शाने के लिए उपयोग होता है?", "options": ["घर्षण बल", "उत्पन्न ऊष्मा", "चुंबकीय क्षेत्र", "रासायनिक अभिक्रिया"], "quick": "C — चुंबकीय क्षेत्र। सीधे धारावाही चालक में अंगूठा धारा की दिशा में हो तो मुड़ी उँगलियाँ चुंबकीय क्षेत्र रेखाओं की दिशा बताती हैं।"}
+},
+"SRO-L31F7884A19": {
+ "en": {"stem": "If the length of a coil is increased, what is the effect on its inductance?", "options": ["Remains unchanged", "Increases", "Becomes infinite", "Decreases"], "quick": "D — Decreases. For a solenoid L = μN²A/l, so with other factors constant inductance is inversely proportional to length."},
+ "hi": {"stem": "यदि कुंडली की लंबाई बढ़ाई जाए, तो उसके प्रेरकत्व पर क्या प्रभाव पड़ता है?", "options": ["अपरिवर्तित रहता है", "बढ़ता है", "अनंत हो जाता है", "घटता है"], "quick": "D — घटता है। सोलेनॉइड के लिए L = μN²A/l, इसलिए अन्य कारक स्थिर रहने पर प्रेरकत्व लंबाई के व्युत्क्रमानुपाती है।"}
+},
+"SRO-L66385FFCB2": {
+ "en": {"stem": "When two inductors L₁ and L₂ are connected in series opposition and M is the mutual inductance between them, the effective inductance L_eq is given by which equation?", "options": ["L = L₁ + L₂ + 2M", "L = L₁ + L₂ − M", "L = L₁ + L₂ + M", "L = L₁ + L₂ − 2M"], "quick": "D — L = L₁ + L₂ − 2M. In series opposition the mutually induced flux opposes the self-induced flux in each coil, so 2M is subtracted (series aiding gives +2M)."},
+ "hi": {"stem": "जब दो प्रेरक L₁ और L₂ श्रेणी विरोध (series opposition) में जोड़े जाएँ और M उनके बीच अन्योन्य प्रेरकत्व हो, तो प्रभावी प्रेरकत्व L_eq किस समीकरण से मिलता है?", "options": ["L = L₁ + L₂ + 2M", "L = L₁ + L₂ − M", "L = L₁ + L₂ + M", "L = L₁ + L₂ − 2M"], "quick": "D — L = L₁ + L₂ − 2M। श्रेणी विरोध में अन्योन्य प्रेरित फ्लक्स प्रत्येक कुंडली के स्वप्रेरित फ्लक्स का विरोध करता है, इसलिए 2M घटाया जाता है (श्रेणी सहायक में +2M)।"}
+},
+"SRO-L6655F0549D": {
+ "en": {"stem": "What is a material called that gets magnetised easily and retains its magnetisation for a long time?", "options": ["Superconducting material", "Ferromagnetic material", "Diamagnetic material", "Paramagnetic material"], "quick": "B — Ferromagnetic material. In ferromagnetic materials (iron, cobalt, nickel) magnetic domains align strongly under an external field, so the material becomes strongly magnetised and can retain it."},
+ "hi": {"stem": "ऐसे पदार्थ को क्या कहा जाता है, जो आसानी से चुंबकत्व प्राप्त करता है और लंबे समय तक अपना चुंबकत्व बनाए रखता है?", "options": ["अतिचालक पदार्थ (Superconducting material)", "लौहचुंबकीय पदार्थ (Ferromagnetic material)", "प्रतिचुंबकीय पदार्थ (Diamagnetic material)", "अनुचुंबकीय पदार्थ (Paramagnetic material)"], "quick": "B — लौहचुंबकीय पदार्थ। लौहचुंबकीय पदार्थों (लोहा, कोबाल्ट, निकल) में बाहरी क्षेत्र के तहत चुंबकीय डोमेन प्रबल रूप से संरेखित होते हैं, इसलिए वे आसानी से प्रबल चुंबकित होते हैं और चुंबकत्व बनाए रख सकते हैं।"}
+},
+"SRO-L901186C2E5": {
+ "en": {"stem": "What is the total inductance of two inductors of 2 H and 3 H connected in series?", "options": ["5 H", "1 H", "12 H", "6 H"], "quick": "A — 5 H. Uncoupled inductors in series carry the same current, so their inductances add directly: 2 + 3 = 5 H."},
+ "hi": {"stem": "श्रेणी (series) में जुड़े 2 H और 3 H के दो प्रेरकों का कुल प्रेरकत्व कितना होगा?", "options": ["5 H", "1 H", "12 H", "6 H"], "quick": "A — 5 H। बिना युग्मन के श्रेणी प्रेरकों में समान धारा बहती है, इसलिए प्रेरकत्व सीधे जुड़ते हैं: 2 + 3 = 5 H।"}
+},
+"SRO-L36F086D7DE": {
+ "en": {"stem": "In an AC circuit, apparent power (S) is given by what?", "options": ["The product of RMS voltage and RMS current", "The product of reactance and voltage", "The product of power factor and active power", "The product of impedance and current"], "quick": "A — The product of RMS voltage and RMS current. S = V_rms × I_rms, measured in VA."},
+ "hi": {"stem": "एक AC परिपथ में आभासी शक्ति (apparent power, S) किसके द्वारा दी जाती है?", "options": ["RMS वोल्टेज और RMS धारा के गुणनफल द्वारा", "रिएक्टेंस और वोल्टेज के गुणनफल द्वारा", "पावर फैक्टर और सक्रिय शक्ति के गुणनफल द्वारा", "प्रतिबाधा और धारा के गुणनफल द्वारा"], "quick": "A — RMS वोल्टेज और RMS धारा के गुणनफल द्वारा। S = V_rms × I_rms, जिसकी इकाई VA है।"}
+},
+"SRO-L7C80298607": {
+ "en": {"stem": "What is the SI unit of active power in an AC circuit?", "options": ["Ohm", "Watt", "Coulomb", "Volt-ampere"], "quick": "B — Watt. Active power is the real, useful power consumed (P = VI cosφ) and its SI unit is the watt (W)."},
+ "hi": {"stem": "AC परिपथ में सक्रिय शक्ति (Active power) की SI इकाई क्या है?", "options": ["ओम (Ohm)", "वाट (Watt)", "कूलॉम (Coulomb)", "वोल्ट-एम्पियर (Volt-ampere)"], "quick": "B — वाट। सक्रिय शक्ति वास्तविक उपयोगी शक्ति है (P = VI cosφ) और इसकी SI इकाई वाट (W) है।"}
+},
+"SRO-L8B85BCBA51": {
+ "en": {"stem": "Which standard unit is used to measure reactive power in an AC circuit?", "options": ["Ampere", "Watt", "Volt-ampere reactive", "Ohm"], "quick": "C — Volt-ampere reactive (VAR). Reactive power Q = VI sinφ is measured in VAR."},
+ "hi": {"stem": "एक AC परिपथ में प्रतिक्रियाशील शक्ति (reactive power) मापने के लिए किस मानक इकाई का उपयोग होता है?", "options": ["एम्पियर (Ampere)", "वाट (Watt)", "वोल्ट-एम्पियर रिएक्टिव (Volt-ampere reactive)", "ओम (Ohm)"], "quick": "C — वोल्ट-एम्पियर रिएक्टिव (VAR)। प्रतिक्रियाशील शक्ति Q = VI sinφ को VAR में मापा जाता है।"}
+},
+"SRO-LE6D3237307": {
+ "en": {"stem": "In an AC circuit with a power factor of 0.8 lagging, the active power is ______________.", "options": ["80% of the apparent power", "20% of the apparent power", "60% of the apparent power", "40% of the apparent power"], "quick": "A — 80% of the apparent power. Power factor = P/S, so P = 0.8 S."},
+ "hi": {"stem": "0.8 लैगिंग पावर फैक्टर वाले एक AC परिपथ में सक्रिय शक्ति (active power) ______________ होती है।", "options": ["आभासी शक्ति (apparent power) का 80%", "आभासी शक्ति (apparent power) का 20%", "आभासी शक्ति का 60%", "आभासी शक्ति का 40%"], "quick": "A — आभासी शक्ति का 80%। पावर फैक्टर = P/S, इसलिए P = 0.8 S।"}
+},
+"SRO-L3F1654BA70": {
+ "en": {"stem": "If both the direction of armature current and the direction of the magnetic field in a DC motor are reversed together, what will be the effect on the motor's direction of rotation?", "options": ["Motor speed will double", "Direction of rotation will reverse", "Electromagnetic torque will become zero", "Direction of rotation will remain unchanged"], "quick": "D — Direction of rotation remains unchanged. Torque T ∝ ΦIa; reversing both Φ and Ia leaves the sign of torque the same. Reverse only one of them to reverse rotation."},
+ "hi": {"stem": "यदि DC मोटर में आर्मेचर धारा की दिशा और चुंबकीय क्षेत्र की दिशा दोनों एक साथ उलट दी जाएँ, तो मोटर की घूर्णन दिशा पर क्या प्रभाव होगा?", "options": ["मोटर की गति दोगुनी हो जाएगी", "घूर्णन की दिशा उलट जाएगी", "विद्युतचुंबकीय टॉर्क शून्य हो जाएगा", "घूर्णन की दिशा अपरिवर्तित रहेगी"], "quick": "D — घूर्णन दिशा अपरिवर्तित रहेगी। टॉर्क T ∝ ΦIa; Φ और Ia दोनों उलटने पर टॉर्क का चिह्न वही रहता है। दिशा बदलने के लिए केवल एक को उलटें।"}
+},
+"SRO-L42790B139B": {
+ "en": {"stem": "A DC motor has a supply voltage of 230 V, back EMF of 220 V and armature resistance of 1 ohm. What will be its armature current?", "options": ["20 A", "15 A", "5 A", "10 A"], "quick": "D — 10 A. V = Eb + IaRa, so Ia = (V − Eb)/Ra = (230 − 220)/1 = 10 A."},
+ "hi": {"stem": "एक DC मोटर की आपूर्ति वोल्टेज 230V, बैक EMF 220V और आर्मेचर प्रतिरोध 1 ओम है। तो उसकी आर्मेचर धारा कितनी होगी?", "options": ["20 A", "15 A", "5 A", "10 A"], "quick": "D — 10 A। V = Eb + IaRa, इसलिए Ia = (V − Eb)/Ra = (230 − 220)/1 = 10 A।"}
+},
+"SRO-L72407DBD07": {
+ "en": {"stem": "Which type of DC generator is most suitable for applications requiring automatic voltage regulation under changing load conditions?", "options": ["Series DC generator", "Shunt DC generator", "Compound DC generator", "Separately excited DC generator"], "quick": "C — Compound DC generator. The series field adds flux as load current rises, compensating the voltage drop of the shunt field, so terminal voltage stays nearly constant automatically."},
+ "hi": {"stem": "बदलती लोड परिस्थितियों में स्वचालित वोल्टेज नियमन (automatic voltage regulation) की आवश्यकता वाले अनुप्रयोगों के लिए किस प्रकार का DC जनरेटर सबसे उपयुक्त है?", "options": ["सीरीज़ DC जनरेटर", "शंट DC जनरेटर", "कंपाउंड DC जनरेटर", "स्वतंत्र रूप से उत्तेजित DC जनरेटर"], "quick": "C — कंपाउंड DC जनरेटर। लोड धारा बढ़ने पर सीरीज़ फील्ड फ्लक्स जोड़ता है और शंट फील्ड के वोल्टेज ड्रॉप की भरपाई करता है, इसलिए टर्मिनल वोल्टेज अपने-आप लगभग स्थिर रहता है।"}
+},
+"SRO-L74AD6F5C34": {
+ "en": {"stem": "The voltage equation of a DC motor is V = E + Ia Ra. What does E stand for in this equation?", "options": ["Load voltage", "Induced EMF", "Back EMF", "Applied voltage"], "quick": "C — Back EMF. As the armature of a running motor rotates in the magnetic field, an EMF is induced that opposes the applied supply voltage."},
+ "hi": {"stem": "एक DC मोटर का वोल्टेज समीकरण V = E + Ia Ra है। इस समीकरण में E किसके लिए प्रयुक्त है?", "options": ["लोड वोल्टेज", "प्रेरित EMF", "बैक EMF (Back EMF)", "लगाया गया वोल्टेज (Applied voltage)"], "quick": "C — बैक EMF। चलती मोटर का आर्मेचर चुंबकीय क्षेत्र में घूमने से EMF प्रेरित होता है, जो लगाए गए आपूर्ति वोल्टेज का विरोध करता है।"}
+},
+"SRO-L755F821B01": {
+ "en": {"stem": "If the speed of a DC motor suddenly increases, what is the effect on back EMF?", "options": ["Back EMF is unaffected by speed changes.", "Back EMF decreases as speed increases.", "Back EMF increases as speed increases.", "Back EMF becomes zero at high speed."], "quick": "C — Back EMF increases with speed. Eb = kΦN, so for constant flux back EMF is directly proportional to speed."},
+ "hi": {"stem": "यदि DC मोटर की गति अचानक बढ़ जाए, तो बैक EMF पर क्या प्रभाव होता है?", "options": ["बैक EMF गति परिवर्तन से अप्रभावित रहता है।", "गति बढ़ने के साथ बैक EMF घटता है।", "गति बढ़ने के साथ बैक EMF बढ़ता है।", "उच्च गति पर बैक EMF शून्य हो जाता है।"], "quick": "C — गति बढ़ने के साथ बैक EMF बढ़ता है। Eb = kΦN, इसलिए स्थिर फ्लक्स पर बैक EMF गति के सीधे समानुपाती है।"}
+},
+"SRO-LA368FF75ED": {
+ "en": {"stem": "If the armature of a DC generator rotates at half its normal speed, what happens to the generated EMF?", "options": ["It becomes half.", "It stays the same.", "It doubles.", "It becomes zero."], "quick": "A — It becomes half. E = PΦZN/(60A), so with constant flux the generated EMF is directly proportional to speed."},
+ "hi": {"stem": "यदि DC जनरेटर का आर्मेचर अपनी सामान्य गति से आधी गति पर घूमे, तो उत्पन्न EMF का क्या होता है?", "options": ["वह आधा हो जाता है।", "वह समान रहता है।", "वह दोगुना हो जाता है।", "वह शून्य हो जाता है।"], "quick": "A — वह आधा हो जाता है। E = PΦZN/(60A), इसलिए स्थिर फ्लक्स पर उत्पन्न EMF गति के सीधे समानुपाती है।"}
+},
+"SRO-LB6F47A38F6": {
+ "en": {"stem": "At the instant of starting, how much back EMF is produced in a DC motor?", "options": ["Zero", "Maximum", "Equal to the supply voltage", "Negative"], "quick": "A — Zero. Back EMF is proportional to speed; at start the speed is zero, so Eb = 0 and the starting current is very high — hence a starter is needed."},
+ "hi": {"stem": "प्रारंभ के क्षण (स्टार्टिंग के समय) DC मोटर में उत्पन्न होने वाला बैक EMF कितना होता है?", "options": ["शून्य", "अधिकतम", "आपूर्ति वोल्टेज के बराबर", "ऋणात्मक"], "quick": "A — शून्य। बैक EMF गति के समानुपाती है; प्रारंभ में गति शून्य होने से Eb = 0 और प्रारंभिक धारा बहुत अधिक होती है — इसीलिए स्टार्टर चाहिए।"}
+},
+"SRO-LC93FE22D75": {
+ "en": {"stem": "In the EMF equation of a DC generator, what does Z represent?", "options": ["Number of commutator segments", "Number of turns per coil", "Total number of armature conductors", "Number of armature coils"], "quick": "C — Total number of armature conductors. In E = PΦZN/(60A), Z is the total number of armature conductors."},
+ "hi": {"stem": "DC जनरेटर के EMF समीकरण में Z क्या दर्शाता है?", "options": ["कम्यूटेटर सेगमेंटों की संख्या", "प्रति कुंडली टर्न की संख्या", "आर्मेचर चालकों की कुल संख्या", "आर्मेचर कुंडलियों की संख्या"], "quick": "C — आर्मेचर चालकों की कुल संख्या। E = PΦZN/(60A) में Z आर्मेचर चालकों की कुल संख्या है।"}
+},
+"SRO-LFE12621EFE": {
+ "en": {"stem": "Assuming constant field flux, which condition increases the armature torque in a DC motor?", "options": ["Reducing the supply voltage", "Increasing the armature current", "Reducing the load", "Increasing the field resistance"], "quick": "B — Increasing the armature current. For a DC motor T ∝ ΦIa; with constant flux, torque rises directly with armature current."},
+ "hi": {"stem": "स्थिर क्षेत्र फ्लक्स (constant field flux) मानें तो DC मोटर में कौन-सी स्थिति आर्मेचर टॉर्क बढ़ाती है?", "options": ["आपूर्ति वोल्टेज घटाना", "आर्मेचर धारा बढ़ाना", "लोड घटाना", "फील्ड प्रतिरोध बढ़ाना"], "quick": "B — आर्मेचर धारा बढ़ाना। DC मोटर के लिए T ∝ ΦIa; फ्लक्स स्थिर हो तो टॉर्क आर्मेचर धारा के साथ सीधे बढ़ता है।"}
+},
+"SRO-L05E6BFDBF6": {
+ "en": {"stem": "What is the ratio of starting torque to maximum torque usually for a squirrel-cage induction motor?", "options": ["Greater than 1", "Depends only on the applied voltage", "Equal to 1", "Less than 1"], "quick": "D — Less than 1. In a normal squirrel-cage induction motor the starting torque is lower than the maximum (breakdown) torque, which occurs at a slip well below 1."},
+ "hi": {"stem": "स्क्विरल-केज इंडक्शन मोटर के लिए प्रारंभिक टॉर्क (Starting torque) और अधिकतम टॉर्क (Maximum torque) का अनुपात सामान्यतः कितना होता है?", "options": ["1 से अधिक", "केवल लगाए गए वोल्टेज पर निर्भर", "1 के बराबर", "1 से कम"], "quick": "D — 1 से कम। सामान्य स्क्विरल-केज इंडक्शन मोटर में प्रारंभिक टॉर्क अधिकतम (ब्रेकडाउन) टॉर्क से कम होता है, जो 1 से काफी कम स्लिप पर आता है।"}
+},
+"SRO-L40546EE27F": {
+ "en": {"stem": "What is the role of a star-delta starter in starting an induction motor?", "options": ["To increase the rotor current", "To increase the starting torque", "To reduce the supply voltage", "To provide full line voltage to the stator"], "quick": "C — To reduce the supply voltage. At start the delta-rated winding is connected in star, so each phase gets V_L/√3; starting current and torque fall to one-third of direct-on-line values."},
+ "hi": {"stem": "इंडक्शन मोटर को प्रारंभ (Starting) करने में स्टार-डेल्टा स्टार्टर की भूमिका क्या है?", "options": ["रोटर धारा बढ़ाना", "प्रारंभिक टॉर्क बढ़ाना", "आपूर्ति वोल्टेज कम करना", "स्टेटर को पूर्ण लाइन वोल्टेज देना"], "quick": "C — आपूर्ति वोल्टेज कम करना। प्रारंभ में डेल्टा-रेटेड वाइंडिंग स्टार में जुड़ती है, इसलिए प्रत्येक फेज़ को V_L/√3 मिलता है; प्रारंभिक धारा और टॉर्क DOL के एक-तिहाई रह जाते हैं।"}
+},
+"SRO-L94F0CEC3C2": {
+ "en": {"stem": "Which design feature of a three-phase induction motor will increase the ratio of full-load torque to maximum torque?", "options": ["Increasing the air-gap length", "Reducing the number of poles", "Increasing the rotor resistance", "Reducing the stator voltage"], "quick": "C — Increasing the rotor resistance. Higher rotor resistance shifts the maximum-torque slip upward while the maximum torque magnitude stays about the same, so the torque at full-load slip rises relative to Tmax."},
+ "hi": {"stem": "तीन-फेज़ इंडक्शन मोटर में कौन-सी डिज़ाइन विशेषता पूर्ण-लोड टॉर्क और अधिकतम टॉर्क (maximum torque) का अनुपात बढ़ाएगी?", "options": ["एयर गैप की लंबाई बढ़ाना", "पोलों की संख्या घटाना", "रोटर प्रतिरोध बढ़ाना", "स्टेटर वोल्टेज घटाना"], "quick": "C — रोटर प्रतिरोध बढ़ाना। अधिक रोटर प्रतिरोध से अधिकतम टॉर्क वाली स्लिप बढ़ जाती है जबकि Tmax का परिमाण लगभग वही रहता है, इसलिए पूर्ण-लोड स्लिप पर टॉर्क Tmax के सापेक्ष बढ़ता है।"}
+}
+}

@@ -1,0 +1,83 @@
+# Builds the PYQ website from SRO Studio and puts the changed files on the server.
+# Runs instantly when Studio starts it (after Publish); also checks by itself every 3 hours.
+name: Publish website
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: Why
+        required: false
+        default: manual
+  schedule:
+    - cron: '23 */3 * * *'
+  push:
+    branches: [main]
+    paths-ignore: ['**.md']
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+env:
+  SITE: https://sarkariresultout.com/
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Anything new in Studio?
+        id: check
+        run: |
+          NEW=$(curl -fsS "${SITE}wp-json/sro-studio/v1/export" | jq -r '.stamp // ""' || echo "")
+          LIVE=$(curl -fsS "${SITE}studio-build.json?t=$(date +%s)" | jq -r '.stamp // ""' || echo "")
+          echo "studio=$NEW website=$LIVE event=${{ github.event_name }}"
+          if [ "${{ github.event_name }}" != "schedule" ] || [ -z "$LIVE" ] || [ "$NEW" != "$LIVE" ]; then echo "go=1" >> "$GITHUB_OUTPUT"; else echo "Website is up to date."; fi
+
+      - name: Free disk space
+        if: steps.check.outputs.go == '1'
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true
+          sudo docker image prune --all --force || true
+          df -h /
+
+      - uses: actions/checkout@v4
+        if: steps.check.outputs.go == '1'
+
+      - uses: actions/setup-node@v4
+        if: steps.check.outputs.go == '1'
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        if: steps.check.outputs.go == '1'
+        run: npm ci --no-audit --no-fund
+
+      - name: Get Studio content
+        if: steps.check.outputs.go == '1'
+        run: node scripts/pull-studio.mjs
+
+      - name: Build
+        if: steps.check.outputs.go == '1'
+        env:
+          SRO_BUILD_ID: C2m19grJpO0s6qazJa7Xb
+          NEXT_PUBLIC_SRO_API: /wp-json/sro/v1
+          NEXT_TELEMETRY_DISABLED: 1
+        run: npx next build
+
+      - name: Upload changed files
+        if: steps.check.outputs.go == '1'
+        env:
+          SRO_DEPLOY_KEY: ${{ secrets.SRO_DEPLOY_KEY }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: node scripts/deploy.mjs out
+
+      - name: Tell Studio the build failed
+        if: failure() && steps.check.outputs.go == '1'
+        env:
+          SRO_DEPLOY_KEY: ${{ secrets.SRO_DEPLOY_KEY }}
+        run: |
+          curl -fsS -X POST "${SITE}wp-json/sro-studio/v1/deploy/fail" -H "X-SRO-Deploy-Key: $SRO_DEPLOY_KEY" -H 'Content-Type: application/json' \
+            -d "{\"message\":\"Build failed — see ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}" || true

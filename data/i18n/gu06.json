@@ -1,0 +1,122 @@
+{
+"SRO-L48DECCD6F5": {
+ "en": {"stem": "Which leader described the constitutional head of the Government of India as a person with authority and dignity but without real executive power?", "options": ["C. Rajagopalachari", "Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose"], "quick": "C — Jawaharlal Nehru. He explained that the President holds a constitutional position of authority and dignity, while real executive power is exercised by the Council of Ministers."},
+ "hi": {"stem": "भारत सरकार के संवैधानिक प्रमुख को अधिकार और गरिमा वाले परंतु वास्तविक कार्यकारी शक्ति से रहित व्यक्ति के रूप में किस नेता ने वर्णित किया था?", "options": ["सी. राजगोपालाचारी", "महात्मा गांधी", "जवाहरलाल नेहरू", "सुभाषचंद्र बोस"], "quick": "C — जवाहरलाल नेहरू। उन्होंने समझाया कि राष्ट्रपति का पद अधिकार और गरिमा वाला संवैधानिक पद है, जबकि वास्तविक कार्यकारी शक्ति मंत्रिपरिषद के पास होती है।"}
+},
+"SRO-LEB771E140F": {
+ "en": {"stem": "Who was the world's first woman to win an Olympic gold medal in boxing, in 2012?", "options": ["Mary Kom", "Katie Taylor", "Claressa Shields", "Nicola Adams"], "quick": "D — Nicola Adams (Great Britain) won the flyweight gold at London 2012, the first Olympics with women's boxing; Mary Kom won bronze."},
+ "hi": {"stem": "2012 में मुक्केबाज़ी में ओलंपिक स्वर्ण पदक जीतने वाली विश्व की पहली महिला कौन थीं?", "options": ["मैरी कॉम", "केटी टेलर (Katie Taylor)", "क्लारेसा शील्ड्स (Claressa Shields)", "निकोला एडम्स"], "quick": "D — निकोला एडम्स (ग्रेट ब्रिटेन) ने लंदन 2012 में फ्लाईवेट स्वर्ण जीता, जो महिला मुक्केबाज़ी वाला पहला ओलंपिक था; मैरी कॉम ने कांस्य जीता।"}
+},
+"SRO-L9F9F236C60": {
+ "en": {"stem": "For how many years must a player perform consistently well to be eligible for the Arjuna Award?", "options": ["2 years", "5 years", "4 years", "3 years"], "quick": "C — 4 years. The Arjuna Award considers consistently outstanding performance over the previous four years."},
+ "hi": {"stem": "अर्जुन पुरस्कार के लिए पात्र होने हेतु खिलाड़ी को कितने वर्षों तक लगातार अच्छा प्रदर्शन करना होता है?", "options": ["2 वर्ष", "5 वर्ष", "4 वर्ष", "3 वर्ष"], "quick": "C — 4 वर्ष। अर्जुन पुरस्कार के लिए पिछले चार वर्षों का लगातार उत्कृष्ट प्रदर्शन देखा जाता है।"}
+},
+"SRO-LB708FF8995": {
+ "en": {"stem": "Which of the following is the best example of using blockchain technology in e-Governance for development?", "options": ["Weather forecasting using satellite data", "Online payment of utility bills", "Secure and transparent management of land records", "Digital classrooms for remote learning"], "quick": "C — Secure and transparent land records. Blockchain's tamper-resistant shared ledger makes land records more secure, transparent and audit-friendly."},
+ "hi": {"stem": "विकास के लिए ई-गवर्नेंस (e-Governance) में ब्लॉकचेन तकनीक के उपयोग का निम्नलिखित में से सबसे अच्छा उदाहरण कौन-सा है?", "options": ["उपग्रह डेटा से मौसम पूर्वानुमान", "यूटिलिटी बिलों का ऑनलाइन भुगतान", "भूमि अभिलेखों का सुरक्षित और पारदर्शी प्रबंधन", "दूरस्थ शिक्षा के लिए डिजिटल कक्षाएँ"], "quick": "C — भूमि अभिलेखों का सुरक्षित और पारदर्शी प्रबंधन। ब्लॉकचेन का छेड़छाड़-रोधी साझा लेज़र भूमि अभिलेखों को अधिक सुरक्षित, पारदर्शी और ऑडिट-योग्य बनाता है।"}
+},
+"SRO-L139FC7CA27": {
+ "en": {"stem": "Which of the following organisations is responsible for launching satellites for India?", "options": ["Defence Research and Development Organisation", "Bhabha Atomic Research Centre", "Council of Scientific and Industrial Research", "Indian Space Research Organisation"], "quick": "D — ISRO. The Indian Space Research Organisation is the national agency for developing and launching satellites (PSLV, GSLV, LVM3)."},
+ "hi": {"stem": "निम्नलिखित में से कौन-सी संस्था भारत के लिए उपग्रहों के प्रक्षेपण के लिए ज़िम्मेदार है?", "options": ["रक्षा अनुसंधान एवं विकास संगठन", "भाभा परमाणु अनुसंधान केंद्र", "वैज्ञानिक तथा औद्योगिक अनुसंधान परिषद", "भारतीय अंतरिक्ष अनुसंधान संगठन"], "quick": "D — ISRO। भारतीय अंतरिक्ष अनुसंधान संगठन उपग्रह विकास और प्रक्षेपण (PSLV, GSLV, LVM3) की राष्ट्रीय संस्था है।"}
+},
+"SRO-L0401F9AF50": {
+ "en": {"stem": "If √(x + 12) + √(x − 12) = 6 and x is a positive integer, find the value of x.", "options": ["12", "13", "15", "18"], "quick": "B — 13. Squaring: x + √(x² − 144) = 18 → √(x² − 144) = 18 − x → x² − 144 = (18 − x)² → 36x = 468 → x = 13. Check: √25 + √1 = 6."},
+ "hi": {"stem": "यदि √(x + 12) + √(x − 12) = 6 हो और x एक धनात्मक पूर्णांक हो, तो x का मान ज्ञात कीजिए।", "options": ["12", "13", "15", "18"], "quick": "B — 13। वर्ग करने पर x + √(x² − 144) = 18 → √(x² − 144) = 18 − x → x² − 144 = (18 − x)² → 36x = 468 → x = 13। जाँच: √25 + √1 = 6।"}
+},
+"SRO-LE7A34EE05F": {
+ "en": {"stem": "The product of the ages of two children is 128. If the elder child is twice as old as the younger, find the sum of their ages.", "options": ["26 years", "18 years", "16 years", "24 years"], "quick": "D — 24 years. Let the ages be x and 2x: 2x² = 128 → x = 8, so the ages are 8 and 16; sum = 24."},
+ "hi": {"stem": "दो बच्चों की आयु का गुणनफल 128 है। यदि बड़ा बच्चा छोटे से दोगुनी आयु का है, तो उनकी आयु का योग ज्ञात कीजिए।", "options": ["26 वर्ष", "18 वर्ष", "16 वर्ष", "24 वर्ष"], "quick": "D — 24 वर्ष। आयु x और 2x लें: 2x² = 128 → x = 8, अतः आयु 8 और 16; योग = 24।"}
+},
+"SRO-LE698085660": {
+ "en": {"stem": "Three bags of rice weigh 15 kg each, one bag weighs 9 kg and another 2 bags weigh 15 kg each. Find the average weight (in kg) of rice in the bags.", "options": ["14", "10", "11", "12"], "quick": "A — 14 kg. Total of 6 bags = 3×15 + 9 + 2×15 = 84 kg; average = 84/6 = 14 kg."},
+ "hi": {"stem": "चावल के तीन बोरों में से प्रत्येक का वज़न 15 kg, एक बोरे का वज़न 9 kg और अन्य 2 बोरों में से प्रत्येक का वज़न 15 kg है। बोरों में चावल का औसत वज़न (kg में) ज्ञात कीजिए।", "options": ["14", "10", "11", "12"], "quick": "A — 14 kg। कुल 6 बोरे = 3×15 + 9 + 2×15 = 84 kg; औसत = 84/6 = 14 kg।"}
+},
+"SRO-L748FD89F42": {
+ "en": {"stem": "Find the area of polygon ABCDEF (in sq. cm).", "options": ["137", "116", "126", "148"], "quick": "B — 116 sq cm. Split the figure into a 7 cm × 14 cm rectangle (17 − 3 = 14) = 98 and a trapezium ½(7 + 5)×3 = 18; total = 116."},
+ "hi": {"stem": "बहुभुज ABCDEF का क्षेत्रफल ज्ञात कीजिए (वर्ग सेमी में)।", "options": ["137", "116", "126", "148"], "quick": "B — 116 वर्ग सेमी। आकृति को 7 cm × 14 cm आयत (17 − 3 = 14) = 98 और समलंब ½(7 + 5)×3 = 18 में बाँटें; कुल = 116।"}
+},
+"SRO-LF48C7788F9": {
+ "en": {"stem": "If the total surface area of a cone is 616 sq inches and its radius is 7 inches, what will be its curved surface area (in sq inches)? (Take π = 22/7)", "options": ["455", "486", "462", "396"], "quick": "C — 462 sq in. TSA = CSA + base; base = πr² = (22/7)×49 = 154, so CSA = 616 − 154 = 462."},
+ "hi": {"stem": "यदि एक शंकु का कुल पृष्ठीय क्षेत्रफल 616 वर्ग इंच और त्रिज्या 7 इंच हो, तो उसका वक्र पृष्ठीय क्षेत्रफल (वर्ग इंच में) कितना होगा? (π = 22/7 लें)", "options": ["455", "486", "462", "396"], "quick": "C — 462 वर्ग इंच। TSA = CSA + आधार; आधार = πr² = (22/7)×49 = 154, अतः CSA = 616 − 154 = 462।"}
+},
+"SRO-L9E5DDFA520": {
+ "en": {"stem": "Which of the given numbers 27648, 34567, 23233 and 43567 is divisible by 3?", "options": ["34567", "27648", "43567", "23233"], "quick": "B — 27648. A number is divisible by 3 if its digit sum is; 2+7+6+4+8 = 27, which is divisible by 3."},
+ "hi": {"stem": "दी गई संख्याओं 27648, 34567, 23233 और 43567 में से कौन-सी संख्या 3 से विभाज्य है?", "options": ["34567", "27648", "43567", "23233"], "quick": "B — 27648। संख्या 3 से विभाज्य है यदि अंकों का योग 3 से विभाज्य हो; 2+7+6+4+8 = 27, जो 3 से विभाज्य है।"}
+},
+"SRO-L73E369BC93": {
+ "en": {"stem": "Gopal spends 20% of his total monthly salary on transport and 40% on food, and saves the rest, which equals ₹28,000. Find his monthly salary (in ₹).", "options": ["65,000", "69,000", "70,000", "75,000"], "quick": "C — ₹70,000. Spending = 20% + 40% = 60%, so savings = 40% = ₹28,000 → salary = 28,000/0.40 = ₹70,000."},
+ "hi": {"stem": "गोपाल अपने कुल मासिक वेतन का 20% परिवहन पर और 40% भोजन पर खर्च करता है और शेष राशि बचाता है जो ₹28,000 के बराबर है। उसका मासिक वेतन (₹ में) ज्ञात कीजिए।", "options": ["65,000", "69,000", "70,000", "75,000"], "quick": "C — ₹70,000। खर्च = 20% + 40% = 60%, अतः बचत = 40% = ₹28,000 → वेतन = 28,000/0.40 = ₹70,000।"}
+},
+"SRO-L56413ACED6": {
+ "en": {"stem": "Two coins are tossed together. Find the probability of getting at least one tail.", "options": ["1", "1/4", "1/2", "3/4"], "quick": "D — 3/4. Outcomes HH, HT, TH, TT (4); at least one tail in HT, TH, TT (3), so P = 3/4."},
+ "hi": {"stem": "दो सिक्के एक साथ उछाले जाते हैं। कम से कम एक पट (tail) आने की प्रायिकता ज्ञात कीजिए।", "options": ["1", "1/4", "1/2", "3/4"], "quick": "D — 3/4। परिणाम HH, HT, TH, TT (4); कम से कम एक पट HT, TH, TT में (3), अतः P = 3/4।"}
+},
+"SRO-L8201408505": {
+ "en": {"stem": "A shopkeeper buys an article for ₹800 and sells it for ₹960. Find his profit percentage.", "options": ["10%", "15%", "5%", "20%"], "quick": "D — 20%. Profit = 960 − 800 = ₹160; profit % = 160/800 × 100 = 20%."},
+ "hi": {"stem": "एक दुकानदार एक वस्तु ₹800 में खरीदकर ₹960 में बेचता है, तो उसका लाभ प्रतिशत ज्ञात कीजिए।", "options": ["10%", "15%", "5%", "20%"], "quick": "D — 20%। लाभ = 960 − 800 = ₹160; लाभ % = 160/800 × 100 = 20%।"}
+},
+"SRO-L46B99DA660": {
+ "en": {"stem": "A sum of ₹1,000 becomes ₹1,331 in 3 years at compound interest compounded annually. Find the annual rate of interest.", "options": ["8%", "10%", "15%", "11%"], "quick": "B — 10%. A/P = 1331/1000 = 1.331 = (1.1)³, so 1 + r/100 = 1.1 → r = 10%."},
+ "hi": {"stem": "₹1,000 की राशि वार्षिक चक्रवृद्धि ब्याज पर 3 वर्ष में ₹1,331 हो जाती है, तो वार्षिक ब्याज दर ज्ञात कीजिए।", "options": ["8%", "10%", "15%", "11%"], "quick": "B — 10%। A/P = 1331/1000 = 1.331 = (1.1)³, अतः 1 + r/100 = 1.1 → r = 10%।"}
+},
+"SRO-L2BB0C2B42C": {
+ "en": {"stem": "Find the simple interest on ₹1,500 at 10% per annum for 2 years.", "options": ["₹200", "₹300", "₹250", "₹150"], "quick": "B — ₹300. SI = PRT/100 = 1500 × 10 × 2 / 100 = ₹300."},
+ "hi": {"stem": "₹1,500 पर 10% वार्षिक दर से 2 वर्ष का साधारण ब्याज ज्ञात कीजिए।", "options": ["₹200", "₹300", "₹250", "₹150"], "quick": "B — ₹300। साधारण ब्याज = PRT/100 = 1500 × 10 × 2 / 100 = ₹300।"}
+},
+"SRO-L62B320A3EA": {
+ "en": {"stem": "A can complete a work in 14 days and B can complete the same work in 18 days. If they work together for 4 days, what fraction of the work will be left?", "options": ["11/13", "21/35", "17/71", "31/63"], "quick": "D — 31/63. Combined rate = 1/14 + 1/18 = 8/63 per day; in 4 days = 32/63; remaining = 1 − 32/63 = 31/63."},
+ "hi": {"stem": "A एक काम 14 दिनों में और B वही काम 18 दिनों में पूरा कर सकता है। यदि वे साथ मिलकर 4 दिन काम करें, तो काम का कितना भाग शेष रहेगा?", "options": ["11/13", "21/35", "17/71", "31/63"], "quick": "D — 31/63। संयुक्त दर = 1/14 + 1/18 = 8/63 प्रति दिन; 4 दिन में = 32/63; शेष = 1 − 32/63 = 31/63।"}
+},
+"SRO-L83BECBF8AE": {
+ "en": {"stem": "A car travels for 2 hours at 40 km/hr and another 2 hours at 60 km/hr. Then it travels for 3 hours at 50 km/hr. What is the average speed of the car for the whole journey?", "options": ["52 km/hr", "48 km/hr", "51 km/hr", "50 km/hr"], "quick": "D — 50 km/hr. Total distance = 80 + 120 + 150 = 350 km in 7 h; average speed = 350/7 = 50 km/h."},
+ "hi": {"stem": "एक कार 2 घंटे 40 km/hr और अगले 2 घंटे 60 km/hr की गति से चलती है। इसके बाद वह 3 घंटे 50 km/hr की गति से चलती है। पूरी यात्रा में कार की औसत गति कितनी है?", "options": ["52 km/hr", "48 km/hr", "51 km/hr", "50 km/hr"], "quick": "D — 50 km/hr। कुल दूरी = 80 + 120 + 150 = 350 km, समय 7 घंटे; औसत गति = 350/7 = 50 km/h।"}
+},
+"SRO-L93E0D59E74": {
+ "en": {"stem": "If A covers 200 km in 4 hours, what distance (in km) will he cover in 11 hours?", "options": ["500", "550", "600", "450"], "quick": "B — 550 km. Speed = 200/4 = 50 km/h; distance in 11 h = 50 × 11 = 550 km."},
+ "hi": {"stem": "यदि A 4 घंटे में 200 km दूरी तय करता है, तो वह 11 घंटे में कितनी दूरी (km में) तय करेगा?", "options": ["500", "550", "600", "450"], "quick": "B — 550 km। गति = 200/4 = 50 km/h; 11 घंटे में दूरी = 50 × 11 = 550 km।"}
+},
+"SRO-L74C9542469": {
+ "en": {"stem": "Two trains are moving in opposite directions at the same speed. If each train is 180 m long and they cross each other in 12 seconds, what is the speed of each train (in m/sec)?", "options": ["15", "10", "18", "12"], "quick": "A — 15 m/s. Distance = 180 + 180 = 360 m; relative speed = 360/12 = 30 m/s = 2v, so v = 15 m/s."},
+ "hi": {"stem": "दो रेलगाड़ियाँ एक-दूसरे की विपरीत दिशा में समान गति से चल रही हैं। यदि प्रत्येक रेलगाड़ी की लंबाई 180 मीटर है और वे एक-दूसरे को 12 सेकंड में पार करती हैं, तो प्रत्येक रेलगाड़ी की गति (m/sec में) कितनी होगी?", "options": ["15", "10", "18", "12"], "quick": "A — 15 m/s। दूरी = 180 + 180 = 360 m; सापेक्ष गति = 360/12 = 30 m/s = 2v, अतः v = 15 m/s।"}
+},
+"SRO-L3ECF664790": {
+ "en": {"stem": "Based on the English alphabetical order, UVUR is related to PQPM in a certain way. In the same way, JKJG is related to EFEB. Following the same logic, RSRO is related to which of the following?", "options": ["MMLJ", "MNMJ", "MOLT", "MNLJ"], "quick": "B — MNMJ. Each letter moves 5 places back (U→P, V→Q, R→M; J→E, K→F, G→B), so R→M, S→N, R→M, O→J."},
+ "hi": {"stem": "अंग्रेज़ी वर्णमाला क्रम के आधार पर UVUR एक निश्चित तरीके से PQPM से संबंधित है। उसी प्रकार JKJG, EFEB से संबंधित है। उसी तर्क से RSRO निम्नलिखित में से किससे संबंधित है?", "options": ["MMLJ", "MNMJ", "MOLT", "MNLJ"], "quick": "B — MNMJ। प्रत्येक अक्षर 5 स्थान पीछे जाता है (U→P, V→Q, R→M; J→E, K→F, G→B), अतः R→M, S→N, R→M, O→J।"}
+},
+"SRO-L7422D86692": {
+ "en": {"stem": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which one does not belong to that group? (Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)", "options": ["VK – QF", "ZO – UJ", "RG – MB", "WL – SH"], "quick": "D — WL – SH. In VK→QF, ZO→UJ and RG→MB both letters move 5 places back; in WL→SH they move only 4 places back."},
+ "hi": {"stem": "अंग्रेज़ी वर्णमाला क्रम के आधार पर निम्नलिखित चार अक्षर-समूह युग्मों में से तीन किसी निश्चित तरीके से समान हैं और एक समूह बनाते हैं। कौन-सा उस समूह से संबंधित नहीं है? (नोट: असंगत युग्म व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनकी स्थिति पर आधारित नहीं है।)", "options": ["VK – QF", "ZO – UJ", "RG – MB", "WL – SH"], "quick": "D — WL – SH। VK→QF, ZO→UJ और RG→MB में दोनों अक्षर 5 स्थान पीछे जाते हैं; WL→SH में केवल 4 स्थान पीछे।"}
+},
+"SRO-L727A209E4D": {
+ "en": {"stem": "S is the sister of P. P is the son of O. O is the father of V. V is the wife of B. How is S related to B?", "options": ["Wife's sister", "Sister's daughter", "Wife's mother", "Daughter"], "quick": "A — Wife's sister. S and P are O's children, as is V, so S is V's sister; V is B's wife, hence S is B's wife's sister (sister-in-law)."},
+ "hi": {"stem": "S, P की बहन है। P, O का पुत्र है। O, V के पिता हैं। V, B की पत्नी है। तो S का B से क्या संबंध है?", "options": ["पत्नी की बहन", "बहन की पुत्री", "पत्नी की माँ", "पुत्री"], "quick": "A — पत्नी की बहन। S और P, O की संतान हैं और V भी, इसलिए S, V की बहन है; V, B की पत्नी है, अतः S, B की पत्नी की बहन (साली) है।"}
+},
+"SRO-L74E79CD733": {
+ "en": {"stem": "In a certain code language, 'BIRD' is coded as '3245' and 'RDBY' is coded as '2346'. What is the code for 'Y' in that language?", "options": ["2", "3", "5", "6"], "quick": "D — 6. Common letters B, R, D share the common digits 2, 3, 4; so I = 5 (unique to BIRD) and Y = 6 (unique to RDBY)."},
+ "hi": {"stem": "एक निश्चित कूट भाषा में 'BIRD' को '3245' और 'RDBY' को '2346' लिखा जाता है। उस भाषा में 'Y' का कूट क्या है?", "options": ["2", "3", "5", "6"], "quick": "D — 6। साझा अक्षर B, R, D के साझा अंक 2, 3, 4 हैं; अतः I = 5 (केवल BIRD में) और Y = 6 (केवल RDBY में)।"}
+},
+"SRO-L457772D67B": {
+ "en": {"stem": "A question is followed by two statements numbered (I) and (II). Decide whether the information in the statements is sufficient to answer the question. Read both statements and choose the correct answer.\nQuestion: Each of 5 buildings — L, A, K, E and D — has a different height. Which building is the shortest?\nStatements:\n(I) E is taller than D.\n(II) A is taller than E. L is shorter than only one building.", "options": ["The information in statements I and II together is sufficient to answer the question.", "The information in statement II alone is sufficient, while statement I alone is not.", "The information in statements I and II together is not sufficient to answer the question.", "The information in statement I alone is sufficient, while statement II alone is not."], "quick": "C — Not sufficient even together. From I and II: A > E > D and L is second tallest, but the position of K relative to D is unknown, so the shortest cannot be fixed."},
+ "hi": {"stem": "एक प्रश्न के बाद (I) और (II) क्रमांकित दो कथन दिए गए हैं। तय कीजिए कि कथनों में दी गई जानकारी प्रश्न का उत्तर देने के लिए पर्याप्त है या नहीं। दोनों कथन पढ़कर सही उत्तर चुनिए।\nप्रश्न: 5 इमारतों L, A, K, E और D में से प्रत्येक की ऊँचाई अलग है। कौन-सी इमारत सबसे छोटी है?\nकथन:\n(I) E, D से ऊँची है।\n(II) A, E से ऊँची है। L केवल एक इमारत से छोटी है।", "options": ["कथन I और II की जानकारी मिलकर प्रश्न का उत्तर देने के लिए पर्याप्त है।", "केवल कथन II की जानकारी पर्याप्त है, जबकि कथन I की जानकारी पर्याप्त नहीं है।", "कथन I और II की जानकारी मिलकर भी प्रश्न का उत्तर देने के लिए पर्याप्त नहीं है।", "केवल कथन I की जानकारी पर्याप्त है, जबकि कथन II की जानकारी पर्याप्त नहीं है।"], "quick": "C — दोनों मिलकर भी अपर्याप्त। I और II से A > E > D और L दूसरी सबसे ऊँची है, पर D के सापेक्ष K की स्थिति अज्ञात है, इसलिए सबसे छोटी इमारत तय नहीं होती।"}
+},
+"SRO-L810DEA9C31": {
+ "en": {"stem": "Arjuna starts driving from his library and drives 2 km west. Then he turns left, drives 3 km, turns right and drives 2 km. Then he turns left and drives 4 km to reach his home. In which direction is he now with respect to his library? (Note: All turns are 90-degree turns unless stated otherwise.)", "options": ["North-East", "South", "South-West", "North"], "quick": "C — South-West. 2 km W; left = S 3 km; right = W 2 km; left = S 4 km. Final position is 4 km west and 7 km south of the library."},
+ "hi": {"stem": "अर्जुन अपनी लाइब्रेरी से गाड़ी चलाना शुरू करता है और पश्चिम की ओर 2 km चलाता है। फिर वह बाएँ मुड़ता है, 3 km चलाता है, दाएँ मुड़ता है और 2 km चलाता है। फिर वह बाएँ मुड़कर 4 km चलाकर अपने घर पहुँचता है। अपनी लाइब्रेरी के सापेक्ष वह अब किस दिशा में है? (नोट: जब तक उल्लेख न हो, सभी मोड़ 90-डिग्री के हैं।)", "options": ["उत्तर-पूर्व", "दक्षिण", "दक्षिण-पश्चिम", "उत्तर"], "quick": "C — दक्षिण-पश्चिम। 2 km पश्चिम; बाएँ = दक्षिण 3 km; दाएँ = पश्चिम 2 km; बाएँ = दक्षिण 4 km। अंतिम स्थिति लाइब्रेरी से 4 km पश्चिम और 7 km दक्षिण है।"}
+},
+"SRO-L922F7AE29D": {
+ "en": {"stem": "Riya ranked third from the top and eighth from the bottom in her class. How many students are there in the class?", "options": ["9", "10", "12", "14"], "quick": "B — 10. Total = rank from top + rank from bottom − 1 = 3 + 8 − 1 = 10."},
+ "hi": {"stem": "रिया अपनी कक्षा में ऊपर से तीसरे और नीचे से आठवें स्थान पर आई। कक्षा में कितने विद्यार्थी हैं?", "options": ["9", "10", "12", "14"], "quick": "B — 10। कुल = ऊपर से रैंक + नीचे से रैंक − 1 = 3 + 8 − 1 = 10।"}
+},
+"SRO-L6B761E1ADC": {
+ "en": {"stem": "Based on the English alphabetical order, what should come in place of the question mark (?) in the following series?\nVKDR ZOHV DSLZ HWPD ?", "options": ["LATH", "JKLM", "OPQR", "LTHY"], "quick": "A — LATH. Each letter position advances by +4: V→Z→D→H→L, K→O→S→W→A, D→H→L→P→T, R→V→Z→D→H."},
+ "hi": {"stem": "अंग्रेज़ी वर्णमाला क्रम के आधार पर नीचे दी गई शृंखला में प्रश्नचिह्न (?) के स्थान पर क्या आना चाहिए?\nVKDR ZOHV DSLZ HWPD ?", "options": ["LATH", "JKLM", "OPQR", "LTHY"], "quick": "A — LATH। प्रत्येक अक्षर स्थान +4 बढ़ता है: V→Z→D→H→L, K→O→S→W→A, D→H→L→P→T, R→V→Z→D→H।"}
+},
+"SRO-LA01231BF24": {
+ "en": {"stem": "What should come in place of the question mark (?) in the following series?\n53 50 47 44 ?", "options": ["51", "35", "41", "55"], "quick": "C — 41. Each term decreases by 3: 44 − 3 = 41."},
+ "hi": {"stem": "नीचे दी गई शृंखला में प्रश्नचिह्न (?) के स्थान पर क्या आना चाहिए?\n53 50 47 44 ?", "options": ["51", "35", "41", "55"], "quick": "C — 41। प्रत्येक पद 3 घटता है: 44 − 3 = 41।"}
+},
+"SRO-L6B8419D295": {
+ "en": {"stem": "Read the given statements and conclusions carefully. Assuming the information in the statements is true, even if it differs from commonly known facts, decide which of the conclusions logically follow(s).\nStatements: All chairs are tables. Some chairs are desks.\nConclusion (I): Some tables are desks.\nConclusion (II): Some desks are chairs.", "options": ["Only conclusion (II) follows.", "Only conclusion (I) follows.", "Both conclusions (I) and (II) follow.", "Neither conclusion (I) nor (II) follows."], "quick": "C — Both follow. The chairs that are desks are also tables, so some tables are desks; and 'some chairs are desks' converts to 'some desks are chairs'."},
+ "hi": {"stem": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़िए। कथनों में दी गई जानकारी को सत्य मानते हुए, भले ही वह सामान्य ज्ञात तथ्यों से भिन्न हो, तय कीजिए कि कौन-सा/से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता/करते है/हैं।\nकथन: सभी कुर्सियाँ, मेज़ हैं। कुछ कुर्सियाँ, डेस्क हैं।\nनिष्कर्ष (I): कुछ मेज़, डेस्क हैं।\nनिष्कर्ष (II): कुछ डेस्क, कुर्सियाँ हैं।", "options": ["केवल निष्कर्ष (II) अनुसरण करता है।", "केवल निष्कर्ष (I) अनुसरण करता है।", "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।", "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।"], "quick": "C — दोनों अनुसरण करते हैं। जो कुर्सियाँ डेस्क हैं वे मेज़ भी हैं, इसलिए कुछ मेज़ डेस्क हैं; और 'कुछ कुर्सियाँ डेस्क हैं' का परिवर्तन 'कुछ डेस्क कुर्सियाँ हैं' है।"}
+}
+}
